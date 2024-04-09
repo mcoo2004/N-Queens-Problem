@@ -5,15 +5,6 @@ N-Queens Problem
 
 This programming assignment involves solving the N-Queens problem, which is a classic problem in computer science and chess. The goal is to place N queens on an N×N chessboard in such a way that no two queens threaten each other. Accordingly, no two queens can share the same row, column, or diagonal.
 
-## Programming Languages
-
-You can implement the solution in any of the following programming languages:
-- C
-- C++
-- Java
-- Python
-
-## Instructions
 
 ### Input
 
